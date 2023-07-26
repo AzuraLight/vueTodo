@@ -1,5 +1,4 @@
 # vue-todo
-------
 - Do it! Vue.js 입문
 - 파이널 예제인 Todo List (할일 관리)를 따라서 진행하였습니다.
 - Do it! Vue.js 입문 마지막 예제인 Todo List (할일 관리)를 따라서 진행하였습니다.
