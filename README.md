@@ -27,7 +27,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-------
-### TODO
-p150 부터 진행하기
